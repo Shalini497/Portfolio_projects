@@ -4,7 +4,7 @@ by which Company know which Customer are there valuable Customer and this help t
 
 1 Here we perform data cleaning and analysis to get the quick insights of particular transactions by using SQL.
 
-2 Perform the ETL by using Power Query Editior of Power BI which help to extract the data from the database and tranform and load data to perform manipulation
+2 Perform the ETL by using Power Query Editior of Power BI which help to extract the data from the database and transform and load data to perform manipulation
 to make them into standardized format.
 
 3 Building a Dashboard to understand AtliQ hardware goods sales trends.
