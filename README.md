@@ -1,6 +1,6 @@
 # Portfolio_projects
 This data is provided by AtliQ Computer Hardware Company which want to know the total revenue of there company ,Which area give more profit to there Company
-by which Company know which Customer are there valuable Customer and this help them to increase there product sales for there profit region and where it does not perform good this insights and dashboard them to improve thre stratedies.
+by which Company know which Customer are there valuable Customer and this help them to increase there product sales for there profit region and where it does not perform good this insights and dashboard them to improve there strategies.
 
 1 Here we perform data cleaning and analysis to get the quick insights of particular transactions by using SQL.
 
